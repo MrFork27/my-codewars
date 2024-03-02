@@ -4,7 +4,7 @@
 
 ```
 [language]/[level-kyu]/[name exercises]/description.md
-[language]/[level-kyu]/[name exercises]/main.py
+[language]/[level-kyu]/[name exercises]/[username].py
 ```
 
 ## Commits
