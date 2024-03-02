@@ -1,2 +1,14 @@
-# my-codewars
-Codewars exercises done
+# my-codewars by Aitor Melero
+
+## Path
+
+```
+[language]/[level-kyu]/[name exercises]/description.md
+[language]/[level-kyu]/[name exercises]/main.py
+```
+
+## Commits
+
+```
+git commit -m "[Language] - [level kyu] - [Name]"
+```
