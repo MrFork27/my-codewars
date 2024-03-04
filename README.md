@@ -3,8 +3,8 @@
 ## Path
 
 ```
-[language]/[level-kyu]/[name exercises]/description.md
-[language]/[level-kyu]/[name exercises]/[username].py
+[language]/[level_kyu]/[name_exercises]/description.md
+[language]/[level_kyu]/[name_exercises]/[username].py
 ```
 
 ## Commits
