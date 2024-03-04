@@ -1,19 +1,11 @@
 import unittest
+import sys
 
+# adding the current code to the system path
+sys.path.insert(0, "python/6_kyu/Simple_card_game")
 
-def compare_cards(card1, card2):
-    # Create a priority list
-    priority_list = ["2", "3", "4", "5", "6", "7", "8", "9", "T", "J", "Q", "K", "A"]
-    # Check what is the card1's and card2's priority
-    card1_priority = priority_list.index(card1)
-    card2_priority = priority_list.index(card2)
-    # Compare both priorities
-    # Return result
-    if card1_priority > card2_priority:
-        return -1
-    if card1_priority == card2_priority:
-        return 0
-    return 1
+# importing the compare_cards
+from mg_Ben import compare_cards
 
 
 class TestMgBen(unittest.TestCase):
